@@ -1,0 +1,8 @@
+.one{
+    height: 200px;
+    background: linear-gradient(to right,blue,green,pink,grey,cyan,purple,aqua,red,orange,yellow,black);
+}
+.two{
+    height: 200px;
+    background: radial-gradient( blue, green, pink, grey, cyan, purple, aqua, red, orange, yellow, black);
+}
